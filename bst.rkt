@@ -1,4 +1,4 @@
-;; Functions by Kerim Celik snd Adam Klein
+;; Functions by Kerim Celik and Adam Klein
 ;; for Programming Languages, 04/03/2017
 
 ;; This function creates and returns an empty binary search tree,
