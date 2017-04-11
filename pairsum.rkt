@@ -1,4 +1,4 @@
-;; Functions by Kerim Celik
+;; Functions by a person
 ;; for Programming Languages, 04/05/2017
 
 ;; This function creates a list of consecutive integers
